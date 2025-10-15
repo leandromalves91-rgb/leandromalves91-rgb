@@ -5,7 +5,7 @@
 Me chamo Leandro Martins Alves, nascido em nov/91 e sou natural de Jundiaí - SP. Concluí uma graduação em Química Licenciatura - UFSCar e já exerci a profissão de professor. Atualmente, estou cursando em paralelo um tecnólogo em Análise e Desenvolvimento de Sistemas e uma pós em Engenharia de Software, ambos na Anhanguera. Sou apaixonado por tecnologia e compartilhar conhecimento. Almejando entrar na área de TI. Acesse meu LinkedIn "[Leandro Martins Alves](https://www.linkedin.com/in/leandro-martins-alves-62aa8221b/)"
 
 <p align="left">
-        <a href="https://github.com/leandromalves91-rgbtab=followers">
+        <a href="https://github.com/leandromalves91-rgb?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -14,7 +14,7 @@ Me chamo Leandro Martins Alves, nascido em nov/91 e sou natural de Jundiaí - SP
         />
     </a>
     </a> 
-    <a href="https://github.com/leandromalves91-rgbtab=repositories&sort=stargazers">
+    <a href="https://github.com/leandromalves91-rgb?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
