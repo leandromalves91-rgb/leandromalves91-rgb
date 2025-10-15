@@ -9,8 +9,7 @@ Me chamo Leandro Martins Alves, nascido em nov/91 e sou natural de Jundiaí - SP
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/leandromalves91-rgb
-?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/leandromalves91-rgb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     </a> 
@@ -18,8 +17,7 @@ Me chamo Leandro Martins Alves, nascido em nov/91 e sou natural de Jundiaí - SP
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/leandromalves91-rgb
-?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/leandromalves91-rgb?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
